@@ -14,7 +14,6 @@ export const App = () => {
       try {
         const response = await HTTPservices.getAllUsers();
         setUsers(response);
-        return response;
       } catch (error) {
         throw new Error(error);
       } finally {
