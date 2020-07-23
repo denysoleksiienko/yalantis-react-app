@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/denysoleksiienko/yalantis-react-app.git/static/css/main.d1d30399.chunk.css",
+    "main.js": "/denysoleksiienko/yalantis-react-app.git/static/js/main.0f8f09b1.chunk.js",
+    "main.js.map": "/denysoleksiienko/yalantis-react-app.git/static/js/main.0f8f09b1.chunk.js.map",
+    "runtime-main.js": "/denysoleksiienko/yalantis-react-app.git/static/js/runtime-main.8bba7c70.js",
+    "runtime-main.js.map": "/denysoleksiienko/yalantis-react-app.git/static/js/runtime-main.8bba7c70.js.map",
+    "static/js/2.d2a53e89.chunk.js": "/denysoleksiienko/yalantis-react-app.git/static/js/2.d2a53e89.chunk.js",
+    "static/js/2.d2a53e89.chunk.js.map": "/denysoleksiienko/yalantis-react-app.git/static/js/2.d2a53e89.chunk.js.map",
+    "index.html": "/denysoleksiienko/yalantis-react-app.git/index.html",
+    "precache-manifest.e894554ac5053900335d56ff7460d46e.js": "/denysoleksiienko/yalantis-react-app.git/precache-manifest.e894554ac5053900335d56ff7460d46e.js",
+    "service-worker.js": "/denysoleksiienko/yalantis-react-app.git/service-worker.js",
+    "static/css/main.d1d30399.chunk.css.map": "/denysoleksiienko/yalantis-react-app.git/static/css/main.d1d30399.chunk.css.map",
+    "static/js/2.d2a53e89.chunk.js.LICENSE.txt": "/denysoleksiienko/yalantis-react-app.git/static/js/2.d2a53e89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bba7c70.js",
+    "static/js/2.d2a53e89.chunk.js",
+    "static/css/main.d1d30399.chunk.css",
+    "static/js/main.0f8f09b1.chunk.js"
+  ]
+}
