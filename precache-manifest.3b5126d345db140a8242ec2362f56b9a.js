@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2ff27c9e75fed3596da52455a164cc5",
+    "revision": "711293a9c6ee0b54c5964d0d85ac7b35",
     "url": "/denysoleksiienko/yalantis-react-app/index.html"
   },
   {
-    "revision": "300f16b87b4c773ade02",
+    "revision": "83629ce6ed69c4828d88",
     "url": "/denysoleksiienko/yalantis-react-app/static/css/main.d1d30399.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/denysoleksiienko/yalantis-react-app/static/js/2.d2a53e89.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "300f16b87b4c773ade02",
-    "url": "/denysoleksiienko/yalantis-react-app/static/js/main.0f8f09b1.chunk.js"
+    "revision": "83629ce6ed69c4828d88",
+    "url": "/denysoleksiienko/yalantis-react-app/static/js/main.84aa7e2c.chunk.js"
   },
   {
     "revision": "dac0e163076b456525d5",
