@@ -4,6 +4,8 @@
 
 ##### `npm start`
 
+#### `gh-pages`: https://denysoleksiienko.github.io/yalantis-react-app/
+
 ##### Tech Stack: HTML, CSS(SCSS), React (Reach Hooks), Axios
 
 #### Задача:
