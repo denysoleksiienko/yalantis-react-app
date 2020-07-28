@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/denysoleksiienko/yalantis-react-app/static/css/main.d1d30399.chunk.css",
-    "main.js": "/denysoleksiienko/yalantis-react-app/static/js/main.84aa7e2c.chunk.js",
-    "main.js.map": "/denysoleksiienko/yalantis-react-app/static/js/main.84aa7e2c.chunk.js.map",
-    "runtime-main.js": "/denysoleksiienko/yalantis-react-app/static/js/runtime-main.9d0ed799.js",
-    "runtime-main.js.map": "/denysoleksiienko/yalantis-react-app/static/js/runtime-main.9d0ed799.js.map",
-    "static/js/2.d2a53e89.chunk.js": "/denysoleksiienko/yalantis-react-app/static/js/2.d2a53e89.chunk.js",
-    "static/js/2.d2a53e89.chunk.js.map": "/denysoleksiienko/yalantis-react-app/static/js/2.d2a53e89.chunk.js.map",
-    "index.html": "/denysoleksiienko/yalantis-react-app/index.html",
-    "precache-manifest.3b5126d345db140a8242ec2362f56b9a.js": "/denysoleksiienko/yalantis-react-app/precache-manifest.3b5126d345db140a8242ec2362f56b9a.js",
-    "service-worker.js": "/denysoleksiienko/yalantis-react-app/service-worker.js",
-    "static/css/main.d1d30399.chunk.css.map": "/denysoleksiienko/yalantis-react-app/static/css/main.d1d30399.chunk.css.map",
-    "static/js/2.d2a53e89.chunk.js.LICENSE.txt": "/denysoleksiienko/yalantis-react-app/static/js/2.d2a53e89.chunk.js.LICENSE.txt"
+    "main.css": "/yalantis-react-app/static/css/main.d1d30399.chunk.css",
+    "main.js": "/yalantis-react-app/static/js/main.65af6596.chunk.js",
+    "main.js.map": "/yalantis-react-app/static/js/main.65af6596.chunk.js.map",
+    "runtime-main.js": "/yalantis-react-app/static/js/runtime-main.2c3684b0.js",
+    "runtime-main.js.map": "/yalantis-react-app/static/js/runtime-main.2c3684b0.js.map",
+    "static/js/2.d2a53e89.chunk.js": "/yalantis-react-app/static/js/2.d2a53e89.chunk.js",
+    "static/js/2.d2a53e89.chunk.js.map": "/yalantis-react-app/static/js/2.d2a53e89.chunk.js.map",
+    "index.html": "/yalantis-react-app/index.html",
+    "precache-manifest.39856722ce52c8cabdb7c903f98de6d0.js": "/yalantis-react-app/precache-manifest.39856722ce52c8cabdb7c903f98de6d0.js",
+    "service-worker.js": "/yalantis-react-app/service-worker.js",
+    "static/css/main.d1d30399.chunk.css.map": "/yalantis-react-app/static/css/main.d1d30399.chunk.css.map",
+    "static/js/2.d2a53e89.chunk.js.LICENSE.txt": "/yalantis-react-app/static/js/2.d2a53e89.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d0ed799.js",
+    "static/js/runtime-main.2c3684b0.js",
     "static/js/2.d2a53e89.chunk.js",
     "static/css/main.d1d30399.chunk.css",
-    "static/js/main.84aa7e2c.chunk.js"
+    "static/js/main.65af6596.chunk.js"
   ]
 }
